@@ -29,6 +29,8 @@ I am a **WordPress Developer** with **2 years of experience** in website design 
 
 ### [Mistress Mind Set](https://trigger.bond/mistressmindset/)
 - Designed a **Feminine Sovereignty** website.
+### [Vortex](https://blogchirp.com/vortexstrength/)
+- Designed a **GYM Product** website.
 
 ## 🎓 Education
 - **M.Phil in Education** | Riphah University Faisalabad
