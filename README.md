@@ -1,6 +1,6 @@
 # Muhammad Yahya - WordPress Developer
 
-![Profile Banner](https://via.placeholder.com/1200x400?text=Muhammad+Yahya+Portfolio)
+![Profile Banner](https://avatars.githubusercontent.com/u/126586192?v=4)
 
 ## 🚀 About Me
 I am a **WordPress Developer** with **2 years of experience** in website design and development. I specialize in WordPress customization, performance optimization, and WooCommerce solutions.
