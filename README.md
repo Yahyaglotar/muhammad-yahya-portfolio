@@ -36,7 +36,7 @@ I am a **WordPress Developer** with **2 years of experience** in website design 
 
 ## 📜 Certifications
 - **Web Developer Certification**
-- **SEO Certification**
+- **SEO Certification(https://lms.digiskills.pk/MyResults/MyResults.aspx)**
 
 ## 📬 Contact
 📧 Email: [yahyaglotar143@gmail.com](mailto:yahyaglotar143@gmail.com)  
